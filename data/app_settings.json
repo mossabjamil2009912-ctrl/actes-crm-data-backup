@@ -1,0 +1,14 @@
+[
+ {
+  "key": "kwh_price",
+  "value": 290,
+  "updated_at": "2026-10-26T15:56:17.100096+00:00",
+  "text_value": null
+ },
+ {
+  "key": "frontend_url",
+  "value": 0,
+  "updated_at": "2026-11-03T19:31:37.574+00:00",
+  "text_value": "https://workflow-whisperer-36-1dc89c79.vercel.app"
+ }
+]
