@@ -6168,6 +6168,18 @@
   "mime": ""
  },
  {
+  "id": "13713f95-0938-4809-9d0b-e10b19ed96a1",
+  "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
+  "direction": "customer",
+  "kind": "text",
+  "text": "0",
+  "created_at": "2026-11-04T14:48:36.303+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
   "id": "41334369-4aa5-40e4-83e5-acd2542ffa1b",
   "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
   "direction": "bot",
@@ -29844,6 +29856,18 @@
   "mime": null
  },
  {
+  "id": "bf6c9f5f-2653-4e65-857f-1c10b4dfae53",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "customer",
+  "kind": "text",
+  "text": "السلام عليكم",
+  "created_at": "2026-11-04T12:48:14.235+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
   "id": "58325f88-8d36-43ce-94ad-024f3fe98ecc",
   "customer_id": "030fa35d-2c00-4cfe-a3d0-c8e2db5f516a",
   "direction": "bot",
@@ -35040,6 +35064,18 @@
   "mime": null
  },
  {
+  "id": "e62d9c2c-d361-46cd-b06b-f63215cec066",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "customer",
+  "kind": "button",
+  "text": "طلب عرض سعر",
+  "created_at": "2026-11-04T12:48:29.466+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
   "id": "e14616b8-3547-4dc2-bff6-77eae2055823",
   "customer_id": "0c76e6d6-6f97-4f79-9a3e-fb90c7945360",
   "direction": "bot",
@@ -37260,6 +37296,18 @@
   "mime": null
  },
  {
+  "id": "6fa39125-26dc-4e09-80dd-e6d74885357c",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "customer",
+  "kind": "button",
+  "text": "السكني",
+  "created_at": "2026-11-04T12:48:44.391+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
   "id": "fe595fb0-e4a9-4254-a535-d7d5592c3dde",
   "customer_id": "030580ae-28b1-42f7-b27e-2fa3b48477df",
   "direction": "bot",
@@ -38988,6 +39036,18 @@
   "mime": null
  },
  {
+  "id": "20d05476-cb58-4822-abab-cf48294190dd",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "customer",
+  "kind": "button",
+  "text": "إنفرتر 1.6 كيلو",
+  "created_at": "2026-11-04T12:49:38.484+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
   "id": "e742da76-365f-4445-9877-0108e14f4931",
   "customer_id": "030fa35d-2c00-4cfe-a3d0-c8e2db5f516a",
   "direction": "bot",
@@ -40246,5 +40306,137 @@
   "media_id": null,
   "media_url": "https://project--8e98ed08-d403-4a4d-a76e-5290f8b257ca-dev.lovable.app/__l5e/assets-v1/523d820c-b477-4425-9334-6dd916ff6697/hithium-heroee-legend-112s.pdf",
   "mime": "application/pdf"
+ },
+ {
+  "id": "f9d4027b-ab10-4f9f-bc1f-80fa92ae55f1",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "bot",
+  "kind": "text",
+  "text": "مرحباً بك في أكتس لأنظمة الطاقة وحلولها \n━━━━━━━━━━━━━━━━━━━━\nنحن متخصصون في توفير حلول الطاقة الشمسية، وأنظمة تخزين الطاقة، والبطاريات، والإنفرترات، إلى جانب حلول متكاملة للمشاريع السكنية والتجارية والصناعية.\n\nيسعدنا خدمتك يرجى اختيار الخدمة المطلوبة من الأزرار التالية:\n🔘 طلب عرض سعر  🔘 حلول أنظمة الطاقة  🔘 الدعم الفني",
+  "created_at": "2026-11-04T12:48:14.236+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "69a539cb-458f-4f94-a8d2-635cec0cca2d",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "bot",
+  "kind": "text",
+  "text": "أكتس لأنظمة الطاقة وحلولها\n━━━━━━━━━━━━━━━━━━━━\n اختر نوع المنظومة\n━━━━━━━━━━━━━━━━━━━━\n1 - السكني\n2 - التجاري\n3 - الصناعي\n\nأرسل 00 للعودة خطوة\n🔘 السكني  🔘 التجاري  🔘 الصناعي",
+  "created_at": "2026-11-04T12:48:29.467+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "6eba5eca-1e3c-419c-b1ae-1a432dd088c4",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "bot",
+  "kind": "text",
+  "text": "أكتس لأنظمة الطاقة وحلولها\n━━━━━━━━━━━━━━━━━━━━\nتصفح المنظومات السكنية الجاهزة\n━━━━━━━━━━━━━━━━━━━━\nاختر قدرة الإنفرتر من القائمة بالأسفل._\n▫️ إنفرتر 1.6 كيلو\n▫️ إنفرتر 6.2 كيلو\n▫️ إنفرتر 8 كيلو\n▫️ إنفرتر 12 كيلو\n▫️ العودة خطوة\n▫️ العودة للبداية",
+  "created_at": "2026-11-04T12:48:44.392+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "dca9df1a-21a4-4244-8b68-b6bd55d69f88",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "bot",
+  "kind": "text",
+  "text": "أكتس لأنظمة الطاقة وحلولها\n━━━━━━━━━━━━━━━━━━━━\n نظام سكني\n━━━━━━━━━━━━━━━━━━━━\nكم تدفع الفاتورة الشهرية بالريال اليمني؟\nادخل متوسط الفاتورة الشهرية التي تدفعها\nمثال: 43000\n\nأو تصفح المنظومات الجاهزة من الزر بالأسفل _\n🔘 المنظومات الجاهزة  🔘 العودة خطوة",
+  "created_at": "2026-11-04T12:49:38.485+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "3ac659a3-bbd0-41b1-82b8-586bb7cfd918",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "customer",
+  "kind": "button",
+  "text": "المنظومات الجاهزة",
+  "created_at": "2026-11-04T12:49:56.427+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "0bbb0725-60d1-46fd-93c3-53ce47a8ead2",
+  "customer_id": "6cf477f1-5eab-4de5-9265-9985ecebf890",
+  "direction": "bot",
+  "kind": "text",
+  "text": "أكتس لأنظمة الطاقة وحلولها\n━━━━━━━━━━━━━━━━━━━━\nالمنظومات السكنية الجاهزة — إنفرتر 1.6 كيلو\n━━━━━━━━━━━━━━━━━━━━\nاختر المنظومة من القائمة بالأسفل لعرض التفاصيل._\n▫️ 1.6 كيلو — بطارية 1.28\n▫️ 1.6 كيلو — بطارية 2.56\n▫️ 1.6 كيلو — بطارية 2.56\n▫️ 1.6 كيلو — بطارية 4\n▫️ 1.6 كيلو — بطارية 4\n▫️ العودة خطوة\n▫️ العودة للبداية",
+  "created_at": "2026-11-04T12:49:56.428+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "c87d0deb-efbc-4f0d-85bc-0130021aa1a7",
+  "customer_id": "976a6d96-f78e-4b86-bfc6-f9d27af49828",
+  "direction": "customer",
+  "kind": "button",
+  "text": "تعديل المنظومة",
+  "created_at": "2026-11-04T14:09:18.185+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "565e291c-4ee8-4034-869c-ab3a6ad3d30a",
+  "customer_id": "976a6d96-f78e-4b86-bfc6-f9d27af49828",
+  "direction": "bot",
+  "kind": "text",
+  "text": "اختر ما تريد تعديله\n🔘 الألواح  🔘 البطاريات  🔘 الإنفرتر",
+  "created_at": "2026-11-04T14:09:18.186+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "830881a1-10d0-45df-a594-d5bd5b7f5a6c",
+  "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
+  "direction": "bot",
+  "kind": "text",
+  "text": "مرحباً بك في أكتس لأنظمة الطاقة وحلولها \n━━━━━━━━━━━━━━━━━━━━\nنحن متخصصون في توفير حلول الطاقة الشمسية، وأنظمة تخزين الطاقة، والبطاريات، والإنفرترات، إلى جانب حلول متكاملة للمشاريع السكنية والتجارية والصناعية.\n\nيسعدنا خدمتك يرجى اختيار الخدمة المطلوبة من الأزرار التالية:\n🔘 طلب عرض سعر  🔘 حلول أنظمة الطاقة  🔘 الدعم الفني",
+  "created_at": "2026-11-04T14:48:36.304+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "2c5a8dfa-b593-44cf-956a-56ce1f37a8f6",
+  "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
+  "direction": "customer",
+  "kind": "button",
+  "text": "طلب عرض سعر",
+  "created_at": "2026-11-04T15:18:44.812+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
+ },
+ {
+  "id": "f2bf61b8-2df1-4868-ad6a-c01e518d529c",
+  "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
+  "direction": "bot",
+  "kind": "text",
+  "text": "أكتس لأنظمة الطاقة وحلولها\n━━━━━━━━━━━━━━━━━━━━\n اختر نوع المنظومة\n━━━━━━━━━━━━━━━━━━━━\n1 - السكني\n2 - التجاري\n3 - الصناعي\n\nأرسل 00 للعودة خطوة\n🔘 السكني  🔘 التجاري  🔘 الصناعي",
+  "created_at": "2026-11-04T15:18:44.813+00:00",
+  "file_name": null,
+  "media_id": null,
+  "media_url": null,
+  "mime": null
  }
 ]
