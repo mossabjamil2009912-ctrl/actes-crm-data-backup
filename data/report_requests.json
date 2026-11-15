@@ -1,1 +1,38 @@
-[]
+[
+ {
+  "id": "c733475c-0146-40a3-b44b-22f2a35c4348",
+  "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
+  "phone": "773590979",
+  "name": "سفيان",
+  "system_label": "[النظام السكني] : 6.2 كيلو — بطارية 10.24 كيلو — 5 ألواح 720W",
+  "kind": "pvsyst",
+  "status": "pending",
+  "sent_at": null,
+  "created_at": "2026-11-15T03:26:59.052406+00:00",
+  "file_path": null,
+  "file_name": null,
+  "city": null,
+  "lat": null,
+  "lon": null,
+  "tilt": null,
+  "azimuth": null
+ },
+ {
+  "id": "b93e1169-8226-44be-acf0-e1c785106ec6",
+  "customer_id": "2a54f990-ec59-4204-9645-8ab1d822af41",
+  "phone": "773590979",
+  "name": "سفيان جميل علي",
+  "system_label": "طلب دراسة PVsyst – 6.2 كيلو — بطارية 5.12 كيلو — 4 ألواح 720W",
+  "kind": "pvsyst",
+  "status": "pending",
+  "sent_at": null,
+  "created_at": "2026-11-15T04:00:32.276202+00:00",
+  "file_path": null,
+  "file_name": null,
+  "city": null,
+  "lat": null,
+  "lon": null,
+  "tilt": null,
+  "azimuth": null
+ }
+]
