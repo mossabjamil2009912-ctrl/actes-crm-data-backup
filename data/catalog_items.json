@@ -1,5 +1,76 @@
 [
  {
+  "key": "cable_cu_1500v_6mm",
+  "kind": "item",
+  "category": "cables",
+  "category_title": "الكنشات والكابلات",
+  "name": "كابل نحاس مجلفن 1500 فولت مفرد 6 مم",
+  "unit": "متر",
+  "price": 2.3,
+  "label": null,
+  "pdf_url": null,
+  "specs": [
+   "كابل تركي"
+  ],
+  "active": true,
+  "sort": 0,
+  "updated_at": "2026-10-20T14:39:26.467769+00:00",
+  "auto_rules": []
+ },
+ {
+  "key": "ctrl_hithium_hv16_ebc",
+  "kind": "item",
+  "category": "battery_controls",
+  "category_title": "كنترولات وحماية البطاريات",
+  "name": "كنترول ربط اضافي بطارية هيثيوم هاي فولتج 16 كيلو",
+  "unit": "حبة",
+  "price": 350,
+  "label": null,
+  "pdf_url": null,
+  "specs": [
+   "الموديل: EPD-HEROEE-16HV-EBC"
+  ],
+  "active": true,
+  "sort": 901,
+  "updated_at": "2026-10-11T19:29:03.385258+00:00",
+  "auto_rules": []
+ },
+ {
+  "key": "mc4_connector",
+  "kind": "item",
+  "category": "cables",
+  "category_title": "الكنشات والكابلات",
+  "name": "كنشات توصيل MC4",
+  "unit": "طقم",
+  "price": 2,
+  "label": null,
+  "pdf_url": null,
+  "specs": [
+   "طقم توصيل أصلي فور 10 ميل",
+   "طقم واحد لكل مجموعة ألواح"
+  ],
+  "active": true,
+  "sort": 1,
+  "updated_at": "2026-10-11T19:32:37.635186+00:00",
+  "auto_rules": []
+ },
+ {
+  "key": "KIT_M1C",
+  "kind": "item",
+  "category": "racks",
+  "category_title": "راكات وكبائن التخزين",
+  "name": "طقم توصيل بطارية هاي فولتج بايلونتك M1C",
+  "unit": "طقم",
+  "price": 200,
+  "label": null,
+  "pdf_url": null,
+  "specs": [],
+  "active": true,
+  "sort": 952,
+  "updated_at": "2026-11-12T18:32:48.268748+00:00",
+  "auto_rules": []
+ },
+ {
   "key": "ac_08",
   "kind": "item",
   "category": "ac_panel",
@@ -20,24 +91,6 @@
   "active": true,
   "sort": 308,
   "updated_at": "2026-10-19T19:01:44.27+00:00",
-  "auto_rules": []
- },
- {
-  "key": "cable_cu_1500v_6mm",
-  "kind": "item",
-  "category": "cables",
-  "category_title": "الكنشات والكابلات",
-  "name": "كابل نحاس مجلفن 1500 فولت مفرد 6 مم",
-  "unit": "متر",
-  "price": 2.3,
-  "label": null,
-  "pdf_url": null,
-  "specs": [
-   "كابل تركي"
-  ],
-  "active": true,
-  "sort": 0,
-  "updated_at": "2026-10-20T14:39:26.467769+00:00",
   "auto_rules": []
  },
  {
@@ -268,43 +321,6 @@
   "active": true,
   "sort": 900,
   "updated_at": "2026-10-11T19:29:03.385258+00:00",
-  "auto_rules": []
- },
- {
-  "key": "ctrl_hithium_hv16_ebc",
-  "kind": "item",
-  "category": "battery_controls",
-  "category_title": "كنترولات وحماية البطاريات",
-  "name": "كنترول ربط اضافي بطارية هيثيوم هاي فولتج 16 كيلو",
-  "unit": "حبة",
-  "price": 350,
-  "label": null,
-  "pdf_url": null,
-  "specs": [
-   "الموديل: EPD-HEROEE-16HV-EBC"
-  ],
-  "active": true,
-  "sort": 901,
-  "updated_at": "2026-10-11T19:29:03.385258+00:00",
-  "auto_rules": []
- },
- {
-  "key": "mc4_connector",
-  "kind": "item",
-  "category": "cables",
-  "category_title": "الكنشات والكابلات",
-  "name": "كنشات توصيل MC4",
-  "unit": "طقم",
-  "price": 2,
-  "label": null,
-  "pdf_url": null,
-  "specs": [
-   "طقم توصيل أصلي فور 10 ميل",
-   "طقم واحد لكل مجموعة ألواح"
-  ],
-  "active": true,
-  "sort": 1,
-  "updated_at": "2026-10-11T19:32:37.635186+00:00",
   "auto_rules": []
  },
  {
@@ -622,6 +638,40 @@
   "active": true,
   "sort": 3,
   "updated_at": "2026-10-11T20:04:00.528707+00:00",
+  "auto_rules": []
+ },
+ {
+  "key": "pdf:bat_legend_112s",
+  "kind": "datasheet",
+  "category": "batteries",
+  "category_title": "البطاريات",
+  "name": "نظام تخزين هيثيوم Legend 112S",
+  "unit": null,
+  "price": null,
+  "label": "Hithium_Legend_112S_AR.pdf",
+  "pdf_url": "https://project--8e98ed08-d403-4a4d-a76e-5290f8b257ca-dev.lovable.app/__l5e/assets-v1/523d820c-b477-4425-9334-6dd916ff6697/hithium-heroee-legend-112s.pdf",
+  "specs": [],
+  "active": true,
+  "sort": 130,
+  "updated_at": "2026-10-12T13:19:03.292+00:00",
+  "auto_rules": []
+ },
+ {
+  "key": "CTRL_M1C",
+  "kind": "item",
+  "category": "racks",
+  "category_title": "راكات وكبائن التخزين",
+  "name": "كنترول هاي فولتج بايلونتك M1C",
+  "unit": "حبة",
+  "price": 800,
+  "label": null,
+  "pdf_url": null,
+  "specs": [
+   "موديل: SC100-200ْJ-C Controlle"
+  ],
+  "active": true,
+  "sort": 953,
+  "updated_at": "2026-10-12T16:21:07.725377+00:00",
   "auto_rules": []
  },
  {
@@ -985,40 +1035,6 @@
   "auto_rules": []
  },
  {
-  "key": "pdf:bat_legend_112s",
-  "kind": "datasheet",
-  "category": "batteries",
-  "category_title": "البطاريات",
-  "name": "نظام تخزين هيثيوم Legend 112S",
-  "unit": null,
-  "price": null,
-  "label": "Hithium_Legend_112S_AR.pdf",
-  "pdf_url": "https://project--8e98ed08-d403-4a4d-a76e-5290f8b257ca-dev.lovable.app/__l5e/assets-v1/523d820c-b477-4425-9334-6dd916ff6697/hithium-heroee-legend-112s.pdf",
-  "specs": [],
-  "active": true,
-  "sort": 130,
-  "updated_at": "2026-10-12T13:19:03.292+00:00",
-  "auto_rules": []
- },
- {
-  "key": "CTRL_M1C",
-  "kind": "item",
-  "category": "racks",
-  "category_title": "راكات وكبائن التخزين",
-  "name": "كنترول هاي فولتج بايلونتك M1C",
-  "unit": "حبة",
-  "price": 800,
-  "label": null,
-  "pdf_url": null,
-  "specs": [
-   "موديل: SC100-200ْJ-C Controlle"
-  ],
-  "active": true,
-  "sort": 953,
-  "updated_at": "2026-10-12T16:21:07.725377+00:00",
-  "auto_rules": []
- },
- {
   "key": "CTRL_M5",
   "kind": "item",
   "category": "racks",
@@ -1066,22 +1082,6 @@
   "active": true,
   "sort": 960,
   "updated_at": "2026-10-12T16:21:07.725377+00:00",
-  "auto_rules": []
- },
- {
-  "key": "KIT_M1C",
-  "kind": "item",
-  "category": "racks",
-  "category_title": "راكات وكبائن التخزين",
-  "name": "طقم توصيل بطارية هاي فولتج بايلونتك M1C",
-  "unit": "طقم",
-  "price": 200,
-  "label": null,
-  "pdf_url": null,
-  "specs": [],
-  "active": true,
-  "sort": 952,
-  "updated_at": "2026-11-12T18:32:48.268748+00:00",
   "auto_rules": []
  },
  {
